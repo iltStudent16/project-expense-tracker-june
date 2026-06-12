@@ -3,9 +3,11 @@
 A modern, responsive **single-page expense tracker** built with **Vanilla TypeScript** and **Vite** (no frameworks).  
 Track income/expenses, filter and sort transactions, visualize spending by category, import/export JSON, and undo changes with keyboard shortcuts.
 
+Live Demo : https://iltstudent16.github.io/project-expense-tracker-june/
+
 ---
 
-## ✨ Highlights
+## Highlights
 
 - ✅ Add transactions: **income or expense** with amount, category, date, and optional notes
 - ✅ Dashboard cards: **balance, total income, total expenses**
